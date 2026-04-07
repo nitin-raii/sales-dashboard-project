@@ -1,0 +1,51 @@
+﻿Order_ID,Date,City,Product,Category,Quantity,Price,Revenue 
+1001,02-01-2024,Delhi,Shoes,Fashion,2,1500,3000
+1002,03-01-2024,Mumbai,T-shirt,Fashion,1,700,700
+1003,04-01-2024,Bangalore,Phone Case,Tech,3,300,900
+1004,05-01-2024,Delhi,Laptop Stand,Tech,1,1200,1200
+1005,06-01-2024,Chennai,Wall Clock,Home,2,800,1600
+1006,07-01-2024,Mumbai,Shoes,Fashion,1,1500,1500
+1007,08-01-2024,Bangalore,T-shirt,Fashion,4,700,2800
+1008,09-01-2024,Delhi,Phone Case,Tech,2,300,600
+1009,10-01-2024,Chennai,Laptop Stand,Tech,1,1200,1200
+1010,11-01-2024,Mumbai,Wall Clock,Home,3,800,2400
+1011,12-01-2024,Delhi,Shoes,Fashion,2,1500,3000
+1012,13-01-2024,Bangalore,T-shirt,Fashion,1,700,700
+1013,14-01-2024,Chennai,Phone Case,Tech,5,300,1500
+1014,15-01-2024,Mumbai,Laptop Stand,Tech,2,1200,2400
+1015,16-01-2024,Delhi,Wall Clock,Home,1,800,800
+1016,17-01-2024,Bangalore,Shoes,Fashion,3,1500,4500
+1017,18-01-2024,Chennai,T-shirt,Fashion,2,700,1400
+1018,19-01-2024,Mumbai,Phone Case,Tech,4,300,1200
+1019,20-01-2024,Delhi,Laptop Stand,Tech,1,1200,1200
+1020,21-01-2024,Bangalore,Wall Clock,Home,2,800,1600
+1021,01-02-2024,Delhi,Shoes,Fashion,1,1500,1500
+1022,02-02-2024,Mumbai,T-shirt,Fashion,3,700,2100
+1023,03-02-2024,Bangalore,Phone Case,Tech,2,300,600
+1024,04-02-2024,Chennai,Laptop Stand,Tech,2,1200,2400
+1025,05-02-2024,Delhi,Wall Clock,Home,4,800,3200
+1026,06-02-2024,Mumbai,Shoes,Fashion,2,1500,3000
+1027,07-02-2024,Bangalore,T-shirt,Fashion,1,700,700
+1028,08-02-2024,Chennai,Phone Case,Tech,3,300,900
+1029,09-02-2024,Delhi,Laptop Stand,Tech,2,1200,2400
+1030,10-02-2024,Mumbai,Wall Clock,Home,1,800,800
+1031,11-02-2024,Bangalore,Shoes,Fashion,2,1500,3000
+1032,12-02-2024,Chennai,T-shirt,Fashion,3,700,2100
+1033,13-02-2024,Delhi,Phone Case,Tech,1,300,300
+1034,14-02-2024,Mumbai,Laptop Stand,Tech,2,1200,2400
+1035,15-02-2024,Bangalore,Wall Clock,Home,3,800,2400
+1036,01-03-2024,Delhi,Shoes,Fashion,2,1500,3000
+1037,02-03-2024,Mumbai,T-shirt,Fashion,2,700,1400
+1038,03-03-2024,Bangalore,Phone Case,Tech,4,300,1200
+1039,04-03-2024,Chennai,Laptop Stand,Tech,1,1200,1200
+1040,05-03-2024,Delhi,Wall Clock,Home,2,800,1600
+1041,06-03-2024,Mumbai,Shoes,Fashion,3,1500,4500
+1042,07-03-2024,Bangalore,T-shirt,Fashion,1,700,700
+1043,08-03-2024,Chennai,Phone Case,Tech,2,300,600
+1044,09-03-2024,Delhi,Laptop Stand,Tech,3,1200,3600
+1045,10-03-2024,Mumbai,Wall Clock,Home,2,800,1600
+1046,11-03-2024,Bangalore,Shoes,Fashion,1,1500,1500
+1047,12-03-2024,Chennai,T-shirt,Fashion,2,700,1400
+1048,13-03-2024,Delhi,Phone Case,Tech,3,300,900
+1049,14-03-2024,Mumbai,Laptop Stand,Tech,1,1200,1200
+1050,15-03-2024,Bangalore,Wall Clock,Home,4,800,3200
