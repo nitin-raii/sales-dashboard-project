@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 ![Dashboard](dashboard/dashboard_preview.png)
-D
+
 ## Objective
 The goal of this project is to analyze sales data and identify key revenue drivers across cities, product categories, and individual products.
 
