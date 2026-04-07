@@ -37,5 +37,10 @@ The dataset contains sales transactions with the following fields:
 - sql/ → SQL queries used for analysis
 - dashboard/ → Power BI dashboard file
 
+## Business Interpretation
+- High revenue in Delhi and Mumbai suggests strong urban demand concentration
+- Fashion dominance indicates high purchase frequency compared to other categories
+- Product-level analysis shows dependency on a few key items (e.g., Shoes)
+
 ## Conclusion
 This project demonstrates how raw sales data can be transformed into actionable insights using SQL and Power BI.
